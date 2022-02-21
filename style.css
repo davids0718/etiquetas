@@ -1,0 +1,36 @@
+span.aprovats{
+    /*text en cursiva*/
+    font-style: oblique;
+}
+
+span.tots{
+    /*text en negrita*/
+    font-weight: bold;
+}
+
+span.small{
+    /*text menut*/
+    font-size: smaller;
+}
+
+span.taxat{
+    /* text taxat */
+    text-decoration: line-through;
+    color: blue;
+    font-weight: bold;
+}
+
+span.canis{
+    /* text italic */
+    font-style: italic;
+}
+
+span.marca{
+    /* text negrita 2 */
+    font-weight: bold;
+}
+
+span.estudiar{
+    /* remarcar text con color  */
+    background-color: red
+}
